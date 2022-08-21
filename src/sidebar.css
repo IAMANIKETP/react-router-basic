@@ -1,0 +1,82 @@
+.main{
+    border: 2px solid black;
+    height: 46rem;
+    width: 20%
+}
+
+.name1{
+    margin : -18px auto 17px 80px;
+}
+
+.User-circle
+{
+    margin: 20px 0px 22px 51px;
+    /* border: 2px solid black; */
+    border-radius: 50%;
+    text-align: center;
+    padding: auto;
+    box-shadow: 1px 2px 9px 5px #888888;
+    padding: 3px 4px 3px 6px;
+    height: 130px;
+}
+
+.name2
+{
+    margin : -7px auto 8px 19px;
+    width: 0%;
+    /* display: inline-block; */
+}
+.name3
+{
+    margin : -9px 12px 10px 8px;
+    width: 0%;
+    text-align: center;
+}
+
+.parent {
+    /* border: 1px solid black; */
+    /* margin: 1rem; */
+    /* padding: 2rem 2rem; */
+    margin:-5px 0px 3px 25px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+  }
+  .child {
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* padding: 1rem 1rem; */
+    vertical-align: middle;
+    margin: -5px 27px 0px 0px;
+    float: right;
+    width: 30%;
+  }
+  
+  .down-sidebar
+  {
+    margin : 10px 0px 10px 10px;
+  }
+  .down-sidebar-1
+  {
+    margin : 10px 10px 10px 10px;
+
+  }
+  .down-logo{
+    font-size: large;
+    margin-bottom: 10px;
+  }
+  .dash{
+    margin: 5px 103px -1px 6px;
+    padding: 22px -2px 10px 4px;
+    float: inline-end;
+  }
+  .dash1{
+    margin: 0px 137px 0px 0px;
+    padding: 22px -2px 10px 4px;
+    float: inline-end;
+  }
+  .dash2{
+    margin: 1px 132px 0px 0px;
+    padding: 22px -2px 10px 4px;
+    float: inline-end;
+  }
